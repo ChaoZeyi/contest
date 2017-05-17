@@ -6,13 +6,13 @@
 
 还有就是，在复赛中起关键性作用的服务器相邻节点替换，哈哈，因为之前被我写错了一个地方，所以效果一直不明显，还好在小郭同学的监督下一步一步调试，把替换函数改好，效果简直惊人，直接就冲上了第一，哈哈，上图纪念一下，
 
-![first.png](https://github.com/ChaoZeyi/contest/blob/master/photos/first.png?raw=true)
+![first.png](https://github.com/ChaoZeyi/contest/blob/master/huawei2017_codeCraft/photos/first.png?raw=true)
 
 当时就激动了，这就说明我们的前四差不多是已经稳了，开心！这个时候的版本差不多已经是最终版了，后面还有遗传算法的一些调整，比如说种群大小，序列长度，不同等级的用例均有所不同（初级、中级、高级），就等着现场复赛了。
 
 4月23号那天，信心满满去了武研所，以为就是去提交个代码，然后领个手机回来，谁知这种时候服务器还能挂掉，先加时到6点，然后还是不行，直接推迟两天，哎，又要多熬两天了，当时还担心会不会有什么变数，两天时间别人会不会优化把我们给超了，还好，到25号线上提交的时候，还是稳稳的第二，记得当时我们三做了三小时的解说，哪个队提交了，提交了多少次，哪个队危险了，哪个队还是很稳的，哈哈！再次恭喜一下月光大佬最后十分钟的绝地反杀，简直凶险，当然，对于三人游这个队还是很可惜的，毕竟之前很长一段时间都是我们两个队在争第一，不相上下，最后居然没进前四，可惜了。
 
-![semi-final_result.png](https://github.com/ChaoZeyi/contest/blob/master/photos/semi-final_result.png?raw=true)
+![semi-final_result.png](https://github.com/ChaoZeyi/contest/blob/master/huawei2017_codeCraft/photos/semi-final_result.png?raw=true)
 
 搞完复赛，实在是太累了，就趁着五一假期去西安玩了一趟，哈哈哈哈，虽然玩的开心，但还是愧对队友，可能多花这些时间，决赛结果就会好一点了呢！
 

@@ -4,7 +4,7 @@
 3月3号赛题公布的时候，看到那一大段的赛题介绍，整个人就有点懵逼，勉强把题目看懂之后，就想着赶紧和小郭讨论一下。经过一步步的交流讨论，才初步确定题目的意思和解题思路。首先，可以确定的是，这是图论中的一个最小费用最大流问题，这个算法已经很成熟了，在网上可以找到很多可直接使用的算法程序，所以在那段时间，恶补了很多相关论文和大佬们的CSDN博客。因为比赛的时间要求是90S以内，所以算法的时间复杂度是很重要的，并且这道题目需要多次调用最小费用最大流函数，所以选择时间复杂度最小的最小费用流是非常重要的。   
 尝试过各种最小费用最大流算法，从Ford-Folkerson、Bellman-Ford到最后的spfa（当然spfa对于复赛的大规模还是完全不够的，后又进行了改进），因为题目需要得到输出路径，在得到最小费用流之后还需要进行一次深搜。最基本的最小费用流算法就是这样，然后是一些处理的技巧和启发式算法的选择了。我们通过gephi画出了给出用例的网络拓扑图，使网络结构更加形象，如下图所示:   
 
-![detail_01.png](https://github.com/ChaoZeyi/contest/blob/master/photos/detail_01.png?raw=true)
+![detail_01.png](https://github.com/ChaoZeyi/contest/blob/master/huawei2017_codeCraft/photos/detail_01.png?raw=true)
 
 最开始我们尝试的是把两两相邻的节点群用一个节点来代替，保证没有重复的输入输出，用此来缩小节点规模，但后来尝试之后发现能合并的也不多，效果不明显，而且判断起来还有点麻烦，就放弃了。
 
@@ -14,7 +14,7 @@
 
 总的来说，初赛还是很顺利的，一直都在稳定在前20，只是在截止的前两天发现了很大的一个bug，输出路径的问题，至今想起来还有点后怕，因为最大流这块一直是我在负责，一旦输出路径有问题就直接判为0分，相当于之前的努力都白费了，当时的压力还是很大的，在宿舍搞了一天，饭也没吃，总算是搞出来了。而且最后两天遗传算法也有了很大的突破，最后是以初赛第七名的成绩进的复赛，直接略过了复活赛，哈哈，还是很开心的！
 
-![preliminary_result.jpg](https://github.com/ChaoZeyi/contest/blob/master/photos/preliminary_result.jpg?raw=true)
+![preliminary_result.jpg](https://github.com/ChaoZeyi/contest/blob/master/huawei2017_codeCraft/photos/preliminary_result.jpg?raw=true)
 
 记得当时一搞完，因为我们不需要复活赛，4号结束初赛，9号才开始复赛，所以有几天的休息时间，就当把清明假期补回来了，各种吃喝玩乐，哈哈哈哈！！
 
