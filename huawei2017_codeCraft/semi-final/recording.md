@@ -14,7 +14,7 @@
 
 ![semi-final_result.png](https://github.com/ChaoZeyi/contest/blob/master/photos/semi-final_result.png?raw=true)
 
-搞完复赛，实在是太累了，就趁着五一假期去西安玩了一趟，哈哈哈哈，虽然玩的开心，但还是愧对室友，可能多花这些时间，决赛结果就会好一点了呢！
+搞完复赛，实在是太累了，就趁着五一假期去西安玩了一趟，哈哈哈哈，虽然玩的开心，但还是愧对队友，可能多花这些时间，决赛结果就会好一点了呢！
 
 
 
