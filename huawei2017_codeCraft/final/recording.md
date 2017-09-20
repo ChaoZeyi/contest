@@ -20,11 +20,17 @@
 
 总共72天，收获了很多，超好的队友（继续横扫各大比赛啊，哈哈），武长赛区的小伙伴们，武长君，华为的小原，可爱的HR们，感谢深圳之行的照顾，玩的很开心（笑脸）。
 
-现在要好好搞实验室的事情了，感觉老师都已经不理我了，得赶紧好好表现表现！！！
-
 code Craft！Run the World！！！！
 
 很美好的一段回忆！
+
+下面附上深圳决赛的几张图
+
+![3.jpg](https://github.com/ChaoZeyi/contest/blob/master/huawei2017_codeCraft/photos/3.jpg?raw=true)
+
+![6.jpg](https://github.com/ChaoZeyi/contest/blob/master/huawei2017_codeCraft/photos/6.jpg?raw=true)
+
+
 
 
 
